@@ -2,10 +2,9 @@ development:
   adapter: async
 
 test:
-  adapter: async
+  adapter: test
 
 production:
   adapter: redis
-  url: redis://redistogo:536195394c396e7577823c01323a4db7@soapfish.redistogo.com:11294/
-
-  channel_prefix: rails-redux-chat_production
+  url: <%= ENV.fetch("REDIS_URL") %>/<%= ENV.fetch("REDIS_DB") %>
+  channel_prefix: app_production
