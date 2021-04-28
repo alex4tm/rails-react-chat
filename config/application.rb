@@ -22,7 +22,7 @@ module RailsReduxChat
       generate.assets false
       generate.helper false
     end
-
+    config.action_cable.mount_path = '/websocket'
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 5.1
 

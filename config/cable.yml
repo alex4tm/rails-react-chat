@@ -6,5 +6,6 @@ test:
 
 production:
   adapter: redis
-  url: redis://localhost:6379/1
+  url: redis://redistogo:536195394c396e7577823c01323a4db7@soapfish.redistogo.com:11294/
+
   channel_prefix: rails-redux-chat_production

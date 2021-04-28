@@ -8,7 +8,6 @@ gem 'jbuilder', '~> 2.0'
 gem 'pg'
 gem 'puma'
 gem 'rails', '5.1.4'
-gem 'redis'
 gem 'webpacker', '~> 3.0'
 
 gem 'autoprefixer-rails'
@@ -19,6 +18,7 @@ gem 'sass-rails'
 gem 'simple_form'
 gem 'uglifier'
 gem 'faker'
+gem 'redis', '~> 3.3'
 
 group :development, :test do
   gem 'pry-byebug'
