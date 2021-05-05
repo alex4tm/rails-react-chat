@@ -5,10 +5,10 @@ ruby File.read(".ruby-version").strip
 gem 'devise'
 gem 'figaro'
 gem 'jbuilder', '~> 2.0'
-gem 'pg'
 gem 'puma'
-gem 'rails', '5.1.4'
 gem 'webpacker', '~> 3.0'
+gem 'pg', '~> 0.18'
+gem 'rails', '~> 5.2.1'
 
 gem 'autoprefixer-rails'
 gem 'bootstrap-sass'
@@ -31,3 +31,4 @@ group :development, :test do
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'dotenv-rails'
 end
+
