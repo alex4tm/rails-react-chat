@@ -6,15 +6,15 @@ ActiveRecord::Base.connection.tables.each do |t|
   ActiveRecord::Base.connection.reset_pk_sequence!(t)
 end
 
-names = %w(general paris react)
-nicknames = %w(Papillard ssaunier monsieurpaillard krokrob Eschults)
+names = %w(general dubai london react support)
+nicknames = %w(alex mike john mary jane)
 
 channels = names.map do |name|
   Channel.find_or_create_by(name: name)
 end
 
 users = nicknames.map do |nickname|
-  User.create(email: "#{nickname.downcase}@lewagon.com", nickname: nickname, password: "testtest")
+  User.create(email: "#{nickname.downcase}@gmail.com", nickname: nickname, password: "testtest")
 end
 
 20.times do
