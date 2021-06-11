@@ -6,5 +6,5 @@ test:
 
 production:
   adapter: redis
-  url: env['REDIS_URL']
+  url: env['REDISTOGO_URL']
   channel_prefix: app_production
