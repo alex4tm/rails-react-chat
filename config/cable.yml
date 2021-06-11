@@ -1,7 +1,6 @@
 production:
   adapter: redis
-  url: redis://redistogo.rails--chat-redux.herokuapp.com:6379
-
+  url: redis://redistogo:d0ed635634356d4408c1effb00bc9493@hoki.redistogo.com:9247/
 development:
   adapter: async
 
