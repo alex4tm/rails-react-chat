@@ -1,3 +1,2 @@
-Redis.current = Redis.new(url:  ENV['REDIS_URL'],
-                          port: ENV['REDIS_PORT'],
-                          db:   ENV['REDIS_DB'])
+uri = URI.parse(ENV["REDISTOGO_URL"])
+REDIS = Redis.new(:url => uri)
