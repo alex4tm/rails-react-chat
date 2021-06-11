@@ -1,10 +1,9 @@
+production:
+  adapter: redis
+  url: redis://redistogo:b2db735ea850e15e1ff581110be5c0b5@soapfish.redistogo.com:11439/
+
 development:
   adapter: async
 
 test:
-  adapter: test
-
-production:
-  adapter: redis
-  url: env['REDISTOGO_URL']
-  channel_prefix: app_production
+  adapter: async
