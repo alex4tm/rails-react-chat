@@ -1,6 +1,6 @@
 production:
   adapter: redis
-  url: ENV["REDISTOGO_URL"]
+  url: redis://redis.rails--chat-redux.herokuapp.com:6379
 
 development:
   adapter: async
