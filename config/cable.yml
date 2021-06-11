@@ -1,6 +1,6 @@
 production:
   adapter: redis
-  url: redis://redistogo:b2db735ea850e15e1ff581110be5c0b5@soapfish.redistogo.com:11439/
+  url: ENV["REDISTOGO_URL"]
 
 development:
   adapter: async
