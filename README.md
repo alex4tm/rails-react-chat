@@ -1,7 +1,7 @@
 # NotSlackChat
 
 ![Project Image](https://github.com/alex4tm/portfolio-v1/blob/master/src/images/notslackchat.jpg)
-<a href="https://rails--chat-redux.herokuapp.com/" target="blank">View live 🚀</a>
+<a href="https://rails--chat-redux.herokuapp.com/">View live 🚀</a>
 ---
 
 ### Table of Contents
@@ -84,7 +84,7 @@ SOFTWARE.
 
 ## Author Info
 
-[LinkedIn](https://www.linkedin.com/in/iliesi-alexandru/)
-[- Portfolio Website -](https://iliesialexandru.com)
+- [LinkedIn](https://www.linkedin.com/in/iliesi-alexandru/)
+- [Portfolio Website](https://iliesialexandru.com)
 
 [Back To The Top](#rails-react-chat))
