@@ -26,7 +26,7 @@ This is a slack-like-chat that is buit on Rails, React, authentication using dev
 - Redis
 
 
-[Back To The Top](#notslackchat)
+[⬆ &nbsp; Back To The Top &nbsp; ⬆ ](#notslackchat)
 
 ---
 
@@ -50,7 +50,7 @@ Run server:
     rails s
 ```
 
-[Back To The Top](#notslackchat)
+[⬆ &nbsp; Back To The Top &nbsp; ⬆ ](#notslackchat)
 
 ---
 
@@ -79,7 +79,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#notslackchat)
+[⬆ &nbsp; Back To The Top &nbsp; ⬆ ](#notslackchat)
 
 ---
 
@@ -88,4 +88,4 @@ SOFTWARE.
 - [LinkedIn](https://www.linkedin.com/in/iliesi-alexandru/)
 - [Portfolio Website](https://iliesialexandru.com)
 
-[Back To The Top](#notslackchat)
+[⬆ &nbsp; Back To The Top &nbsp; ⬆ ](#notslackchat)
