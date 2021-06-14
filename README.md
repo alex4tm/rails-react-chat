@@ -26,7 +26,7 @@ This is a slack-like-chat that is buit on Rails, React, authentication using dev
 - Redis
 
 
-[Back To The Top](#rails-react-chat)
+[Back To The Top](#notslackchat)
 
 ---
 
