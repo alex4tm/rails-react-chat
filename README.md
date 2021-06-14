@@ -1,6 +1,7 @@
 # NotSlackChat
 
 ![Project Image](https://github.com/alex4tm/portfolio-v1/blob/master/src/images/notslackchat.jpg)
+---
 <a href="https://rails--chat-redux.herokuapp.com/">View live 🚀</a>
 ---
 
