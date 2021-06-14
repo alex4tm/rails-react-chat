@@ -2,8 +2,8 @@
 
 ![Project Image](https://github.com/alex4tm/portfolio-v1/blob/master/src/images/notslackchat.jpg)
 
-[View live 🚀](https://rails--chat-redux.herokuapp.com/){:target="_blank"}
-
+[View live 🚀](https://rails--chat-redux.herokuapp.com/)
+<a href="https://rails--chat-redux.herokuapp.com/" target="_blank">View live 🚀</a>
 ---
 
 ### Table of Contents
