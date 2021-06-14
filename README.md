@@ -2,7 +2,7 @@
 
 ![Project Image](https://github.com/alex4tm/portfolio-v1/blob/master/src/images/notslackchat.jpg)
 
-[View live 🚀](https://rails--chat-redux.herokuapp.com/) 
+[View live 🚀](https://rails--chat-redux.herokuapp.com/){:target="_blank"}
 
 ---
 
@@ -51,7 +51,7 @@ Run server:
     rails s
 ```
 
-[Back To The Top](#NotSlackChat)
+[Back To The Top](#rails-react-chat)
 
 ---
 
@@ -80,7 +80,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#NotSlackChat)
+[Back To The Top](#rails-react-chat))
 
 ---
 
@@ -89,4 +89,4 @@ SOFTWARE.
 [LinkedIn](https://www.linkedin.com/in/iliesi-alexandru/)
 [- Portfolio Website -](https://iliesialexandru.com)
 
-[Back To The Top](#NotSlackChat)
+[Back To The Top](#rails-react-chat))
