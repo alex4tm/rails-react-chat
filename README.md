@@ -87,4 +87,4 @@ SOFTWARE.
 - [LinkedIn](https://www.linkedin.com/in/iliesi-alexandru/)
 - [Portfolio Website](https://iliesialexandru.com)
 
-[Back To The Top](#rails-react-chat))
+[Back To The Top](#rails-react-chat)
